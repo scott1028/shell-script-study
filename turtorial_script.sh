@@ -1,3 +1,6 @@
+# echo: mean print as string.
+# expr: mean print as math operation.
+
 # define a function
 function dosomething()
 {
